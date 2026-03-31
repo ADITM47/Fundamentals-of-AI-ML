@@ -26,7 +26,7 @@ This project:
 Follow these steps to run the project locally:
 
 * 1. Clone the Repository
-git clone 
+git clone https://github.com/ADITM47/Fundamentals-of-AI-ML.git
 * 2. Install Dependencies
 pip install pandas scikit-learn numpy
 * 3. Run the Script
